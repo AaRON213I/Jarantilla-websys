@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+      
+#Content1 {
+    padding: 50px;
+    background-color: green;
+    height: 500px;
+}
+
+#Content2 {
+    padding: 50px;
+    background-color: blue;
+    height: 500px;
+}
+header {
+    padding-left: 10px;
+    padding-right: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+img {
+    height: 40px;
+}
+header {
+    background-color: black;
+}
+span {
+    color: white;
+}
